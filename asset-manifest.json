@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ziniverse/quote-generator-4/static/css/main.1e508399.css",
-    "main.js": "/ziniverse/quote-generator-4/static/js/main.c2b27b33.js",
-    "static/js/787.8f2a64ec.chunk.js": "/ziniverse/quote-generator-4/static/js/787.8f2a64ec.chunk.js",
-    "index.html": "/ziniverse/quote-generator-4/index.html",
-    "main.1e508399.css.map": "/ziniverse/quote-generator-4/static/css/main.1e508399.css.map",
-    "main.c2b27b33.js.map": "/ziniverse/quote-generator-4/static/js/main.c2b27b33.js.map",
-    "787.8f2a64ec.chunk.js.map": "/ziniverse/quote-generator-4/static/js/787.8f2a64ec.chunk.js.map"
+    "main.css": "/github.io/quote-generator-4/static/css/main.1e508399.css",
+    "main.js": "/github.io/quote-generator-4/static/js/main.22cb480a.js",
+    "static/js/787.8f2a64ec.chunk.js": "/github.io/quote-generator-4/static/js/787.8f2a64ec.chunk.js",
+    "index.html": "/github.io/quote-generator-4/index.html",
+    "main.1e508399.css.map": "/github.io/quote-generator-4/static/css/main.1e508399.css.map",
+    "main.22cb480a.js.map": "/github.io/quote-generator-4/static/js/main.22cb480a.js.map",
+    "787.8f2a64ec.chunk.js.map": "/github.io/quote-generator-4/static/js/787.8f2a64ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e508399.css",
-    "static/js/main.c2b27b33.js"
+    "static/js/main.22cb480a.js"
   ]
 }
