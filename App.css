@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  background-color: #414141;
+}
+
+.App-header {
+  background-color: #ababab;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(36, 36, 36);
+}
+
+.quote-box {
+  border: 2px solid #61dafb;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  width: 60%;
+  background-color: rgb(177, 81, 81);
+  color: black;
+  height: 120px;
+}
+
+.quote-text {
+  font-size: larger;
+}
+
+button {
+  font-size: calc(10px + 2vmin);
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 20px;
+  
+  background-color: #414141;
+}
